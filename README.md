@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Backend structure of a CRUD created with TypeORM quick start.
 
 Steps to run this project:
 
